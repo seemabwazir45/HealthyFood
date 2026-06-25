@@ -1,0 +1,38 @@
+.container {
+  background-color: green;
+  height: 30%;
+  width: 30%;
+ align-items: center;
+  margin-left: 30%;
+  margin-top: 5%;
+  border: 6px solid red;
+  border-radius: 8px;
+}
+.button {
+  background-color: red;
+  float: right;
+}
+
+.foodinput {
+  background-color: yellow;
+  width: 78%;
+  margin-bottom: 8px;
+  margin-left: 25px;
+  border: 6px solid red;
+  border-radius: 8px;
+}
+
+.h1 {
+  margin-left: 26px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.bttn{
+    background-color: blue;
+    color: white;
+    border: solid 2px rgb(18, 17, 17);
+    border-radius: 8px;
+    height: 40px;
+    font-size: 14px;
+    padding: 0px 10px;
+    width: 30%;
+}
